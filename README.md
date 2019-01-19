@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mamamyax
 
 A new Flutter project.
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # MamamyaX
 app de bebe
->>>>>>> 698eaf691b11abae01b8aa95881153dfbea31765
